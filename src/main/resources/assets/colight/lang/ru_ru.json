@@ -1,0 +1,13 @@
+{
+  "block.colight.green_light_block": "Зелёный Блок Света",
+  "block.colight.red_light_block": "Красный Блок Света",
+  "block.colight.magenta_light_block": "Пурпурный Блок Света",
+  "block.colight.pink_light_block": "Розовый Блок Света",
+  "block.colight.blue_light_block": "Синий Блок Света",
+  "block.colight.lime_light_block": "Лаймовый Блок Света",
+  "block.colight.cyan_light_block": "Бирюзовый Блок Света",
+  "block.colight.purple_light_block": "Фиолетовый Блок Света",
+  "block.colight.yellow_light_block": "Жёлтый Блок Света",
+  "block.colight.orange_light_block": "Оранжевый Блок Света",
+  "itemGroup.colight": "Colight"
+}

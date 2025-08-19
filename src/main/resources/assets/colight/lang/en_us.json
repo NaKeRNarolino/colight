@@ -1,0 +1,13 @@
+{
+  "block.colight.green_light_block": "Green Light Block",
+  "block.colight.red_light_block": "Red Light Block",
+  "block.colight.magenta_light_block": "Magenta Light Block",
+  "block.colight.pink_light_block": "Pink Light Block",
+  "block.colight.blue_light_block": "Blue Light Block",
+  "block.colight.lime_light_block": "Lime Light Block",
+  "block.colight.cyan_light_block": "Cyan Light Block",
+  "block.colight.purple_light_block": "Purple Light Block",
+  "block.colight.yellow_light_block": "Yellow Light Block",
+  "block.colight.orange_light_block": "Orange Light Block",
+  "itemGroup.colight": "Colight"
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=1": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=10": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=11": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=12": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=13": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=14": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=15": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=2": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=3": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=4": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=5": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=6": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=7": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=8": {
+      "model": "colight:block/empty_texture_model"
+    },
+    "level=9": {
+      "model": "colight:block/empty_texture_model"
+    }
+  }
+}

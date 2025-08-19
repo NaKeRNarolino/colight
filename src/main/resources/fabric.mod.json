@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "colight",
+	"version": "${version}",
+	"name": "Colight",
+	"description": "Adds 10 colored variants for the invisible Light Block.",
+	"authors": [
+		"NaKeR"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/colight/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "name.nakern.colight.Colight",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "name.nakern.colight.ColightClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"colight.mixins.json",
+		{
+			"config": "colight.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}
